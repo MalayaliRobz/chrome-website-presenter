@@ -1,7 +1,10 @@
 {
   "manifest_version": 2,
   "name": "Website Presenter",
-  "version": "0.1",
+  "short_name": "Web Presenter",
+  "version": "0.0.0.1",
+  "default_locale": "en",
+  "description": "A web presentation tool that highlights web elements as you present. Make any website presentable.",
   "browser_action": {
     "default_icon": {
       "16": "images/presenter16.png",
