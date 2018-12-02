@@ -5,7 +5,7 @@
   height: 100%;
   top: 0;
   right: 0;
-  z-index: 9999;
+  z-index: 999;
   border: 2px solid #707070;
   display: none;
   flex-direction: column;
